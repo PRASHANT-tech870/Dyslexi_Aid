@@ -9,7 +9,6 @@ pyttsx3
 pandas
 scikit-learn 
 requests
-plaintext
 easyocr
 pyaudio
 

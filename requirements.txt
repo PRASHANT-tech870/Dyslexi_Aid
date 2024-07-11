@@ -1,0 +1,14 @@
+streamlit
+streamlit_webrtc
+pillow
+pymupdf
+faiss-cpu 
+google-generativeai
+speechrecognition 
+pyttsx3
+pandas
+scikit-learn 
+requests
+plaintext
+easyocr
+
